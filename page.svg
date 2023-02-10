@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1366 787" style="enable-background:new 0 0 1366 787;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#000000;stroke-width:0.6287;stroke-miterlimit:10;}
+	.st4{fill:url(#SVGID_1_);}
+	.st5{fill:url(#SVGID_00000106142067875376156450000000716077081404763292_);}
+</style>
+<g id="Layer_1">
+	<polygon class="st0" points="133,4931.4 0,4931.4 0,-32.6 24,-32.6 133,-32.6 	"/>
+	<rect y="-32.6" width="16.3" height="4964"/>
+	<line class="st1" x1="26" y1="4931.4" x2="26" y2="-32.6"/>
+	<line class="st1" x1="36" y1="4931.4" x2="36" y2="-32.6"/>
+	<line class="st1" x1="48" y1="4931.4" x2="48" y2="-32.6"/>
+	<line class="st1" x1="60" y1="4931.4" x2="60" y2="-32.6"/>
+	<line class="st1" x1="73" y1="4931.4" x2="73" y2="-32.6"/>
+	<line class="st1" x1="88" y1="4931.4" x2="88" y2="-32.6"/>
+	<line class="st1" x1="104" y1="4931.4" x2="104" y2="-32.6"/>
+	<line class="st1" x1="120" y1="4931.4" x2="120" y2="-32.6"/>
+	<line class="st2" x1="133" y1="4931.4" x2="133" y2="-32.6"/>
+	<polygon class="st0" points="1233,-32.6 1366,-32.6 1366,4931.4 1342,4931.4 1233,4931.4 	"/>
+	<rect x="1349.7" y="-32.6" width="16.3" height="4964"/>
+	<line class="st1" x1="1340" y1="-32.6" x2="1340" y2="4931.4"/>
+	<line class="st1" x1="1330" y1="-32.6" x2="1330" y2="4931.4"/>
+	<line class="st1" x1="1318" y1="-32.6" x2="1318" y2="4931.4"/>
+	<line class="st1" x1="1306" y1="-32.6" x2="1306" y2="4931.4"/>
+	<line class="st1" x1="1293" y1="-32.6" x2="1293" y2="4931.4"/>
+	<line class="st1" x1="1278" y1="-32.6" x2="1278" y2="4931.4"/>
+	<line class="st1" x1="1262" y1="-32.6" x2="1262" y2="4931.4"/>
+	<line class="st1" x1="1246" y1="-32.6" x2="1246" y2="4931.4"/>
+	<line class="st2" x1="1233" y1="-32.6" x2="1233" y2="4931.4"/>
+	<line class="st3" x1="683" y1="-38.9" x2="683" y2="4937.8"/>
+</g>
+<g id="Layer_2">
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="132" y1="-1661.424" x2="683.01" y2="-1661.424" gradientTransform="matrix(1 0 0 -1 0 788)">
+		<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		<stop  offset="0.86" style="stop-color:#878787;stop-opacity:0.19"/>
+		<stop  offset="1" style="stop-color:#000000;stop-opacity:0.4"/>
+	</linearGradient>
+	<rect x="132" y="-38.9" class="st4" width="551" height="4976.7"/>
+	
+		<linearGradient id="SVGID_00000165200879932240673930000014665068226479749259_" gradientUnits="userSpaceOnUse" x1="-380" y1="2486.814" x2="171.01" y2="2486.814" gradientTransform="matrix(-1 0 0 1 854 -37.39)">
+		<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		<stop  offset="0.86" style="stop-color:#878787;stop-opacity:0.19"/>
+		<stop  offset="1" style="stop-color:#000000;stop-opacity:0.4"/>
+	</linearGradient>
+	
+		<rect x="683" y="-38.9" style="fill:url(#SVGID_00000165200879932240673930000014665068226479749259_);" width="551" height="4976.7"/>
+</g>
+</svg>
